@@ -38,24 +38,84 @@ Recovery in December (656k)
 These fluctuations represent real operational pressures. Understanding these cycles allows leaders to plan proactively — adjusting staffing, inventory, and patient flow strategies ahead of demand.
 
 🎯 Strategic Recommendations
-1. Strengthen Urgent Care Capacity
-Urgent cases drive the highest billing share. Enhancing triage speed, diagnostic turnaround, and urgent care staffing can improve outcomes for time‑sensitive patients.
+1️⃣ Strengthen Urgent Care Capacity
+Urgent admissions contribute the highest proportion of total billing (35%), indicating that time‑sensitive and high‑acuity cases are a major driver of financial and clinical performance.
+Why this matters:  
+Urgent cases often require rapid diagnostics, immediate intervention, and efficient triage. Enhancing capacity in this area—through improved triage workflows, faster diagnostic turnaround, and dedicated urgent care teams—can increase throughput, reduce delays, and support revenue growth.
+Strategic impact:
 
-2. Investigate Declining Patient Volume
-A 1% drop may signal changes in referral patterns, competition, or operational bottlenecks. Understanding the root cause helps stabilise patient inflow and protect long‑term performance.
+Faster patient flow
 
-3. Improve Billing Accuracy & Documentation
-A slight dip in average billing per patient shows that small gaps in documentation or coding can accumulate. Strengthening these processes ensures clinical work is fully captured and reimbursed.
+Reduced bottlenecks in emergency pathways
 
-4. Target LOS Reduction
-Even a one‑day reduction from the current 16‑day average can free beds, reduce congestion, and improve patient flow. Better discharge planning and early intervention pathways can make this achievable.
+Higher billing accuracy and case value
 
-5. Maintain Balanced Clinical Workloads
-The current distribution (20–27 patients) is healthy. Continued monitoring ensures clinicians remain supported, engaged, and able to deliver consistent care.
+Improved patient outcomes in critical cases
+2️⃣ Investigate the Decline in Patient Volume
+The dashboard shows a slight decline in total patient volume. While small, this trend can signal deeper issues.
+Why this matters:  
+A drop in volume may be linked to reduced referrals, increased competition, operational bottlenecks, or changes in community health patterns. Conducting a root‑cause analysis can help identify whether the decline is structural or seasonal.
+Strategic impact:
 
-6. Align Staffing With Seasonal Demand
-Peaks in January and August — and dips in February and November — highlight the need for flexible staffing models. Planning ahead reduces pressure on teams and improves operational resilience.
+Stabilises patient inflow
 
+Protects long‑term revenue
+
+Ensures capacity planning aligns with demand
+
+Supports strategic partnerships with referral sources
+3️⃣ Enhance Billing Accuracy and Documentation
+Average billing per patient shows a minor decrease, despite overall billing growth.
+Why this matters:  
+This suggests opportunities to improve coding accuracy, documentation completeness, and service mix optimisation. Ensuring clinicians and administrative teams follow best‑practice documentation standards can reduce missed charges and improve financial performance.
+Strategic impact:
+
+Higher per‑patient revenue
+
+Reduced billing errors
+
+Stronger financial governance
+
+Better alignment between clinical activity and financial reporting
+4️⃣ Target Reductions in Length of Stay (LOS)
+LOS remains stable at 16 days, but even small reductions can create significant operational benefits.
+Why this matters:  
+Shorter LOS improves bed turnover, reduces congestion, and enhances patient satisfaction. LOS reduction can be achieved through early intervention pathways, improved discharge planning, and multidisciplinary rounds.
+Strategic impact:
+
+Increased bed availability
+
+Reduced waiting times
+
+Improved patient flow
+
+Lower operational costs
+5️⃣ Maintain Balanced Clinical Workloads
+The top clinicians show a balanced workload (20–27 patients), which is a positive indicator.
+Why this matters:  
+Balanced workloads reduce burnout, support consistent care quality, and ensure equitable patient distribution. Monitoring this pattern over time helps maintain operational stability and clinician wellbeing.
+Strategic impact:
+
+Higher staff morale
+
+Better patient experience
+
+Reduced risk of performance variation
+
+More predictable clinical outcomes
+6️⃣ Align Staffing and Resources With Seasonal Demand
+Monthly performance trends show clear peaks (January, August) and dips (February, November).
+Why this matters:  
+Understanding seasonal patterns allows hospitals to plan proactively rather than reactively. Staffing, inventory, and bed management can be adjusted to match expected demand.
+Strategic impact:
+
+Reduced overtime and staffing pressure
+
+Optimised inventory usage
+
+Improved patient flow during peak periods
+
+Cost savings during low‑demand months
 💡 Project Reflection
 This project strengthened my belief that data is more than numbers — it’s a lens into how people work, how patients move through the system, and where meaningful improvements can be made. I’m excited to apply these insights in data analytics, PMO, and healthcare operations roles, where data‑driven thinking can create real impact.
 
